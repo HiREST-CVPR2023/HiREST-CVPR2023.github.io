@@ -1,11 +1,11 @@
 # HiREST
 
 This is the repository that contains source code for the [HiREST website](https://HiREST-CVPR2023.github.io).
-```
+```bibtex
 @inproceedings{Zala2023HiREST,
-  author    = {Abhay Zala and Jaemin Cho and Satwik Kottur and Xilun Chen and Barlas Oguz and Yashar Mehdad and Mohit Bansal},
+  author    = {Abhay Zala and Jaemin Cho and Satwik Kottur and Xilun Chen and Barlas Oğuz and Yashar Mehdad and Mohit Bansal},
   title     = {Hierarchical Video-Moment Retrieval and Step-Captioning},
-  journal   = {CVPR},
+  booktitle = {CVPR},
   year      = {2023},
 }
 ```
